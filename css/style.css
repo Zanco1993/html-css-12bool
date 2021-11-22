@@ -1,0 +1,26 @@
+.box{
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+}
+
+.blue{
+    background-color: rgb(6, 121, 245);
+}
+
+.green{
+    background-color: lightgreen;
+}
+
+.container-nest{
+    padding: 5px;
+    height: 100%; 
+}
+
+.box-special{
+    height: 100%;
+    border: 1px solid rgb(6, 121, 245);
+    line-height: 37px;
+}
